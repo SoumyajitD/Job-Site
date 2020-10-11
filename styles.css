@@ -1,7 +1,71 @@
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 .navigation{
 
   background-color:white;
   padding: 10px
 
+}
+.but{
+  width: 150px;
+  position: absolute;
+  left: 1040px;
+  top: 32px;
+  padding: 12px 28px
+
+  ;
+}
+.searchContainer{
+  position: relative;
+  right: 90px;
+}
+.form-box{
+
+
+
+  background: #333399;
+}
+
+.search{
+  position: relative;
+  display: block;
+
+      top: -10px;
+      left: 500px;
+
+      width: 250px;
+
+}
+.title1{
+  position: relative;
+  display: block;
+  color: white;
+  font-size: 120%;
+
+
+      top: 3px;
+      left: 500px;
+}
+
+.searcbox1{
+  width: 106%;
+  padding: 2px;
+}
+.searcbox2{
+  width: 106%;
+  padding: 2px;
+}
+
+.locsearch{
+  position: relative;
+  display: block;
+
+      top: -41.5px;
+      left: 765px;
+
+
+      width: 250px;
 }
